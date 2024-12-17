@@ -16,4 +16,4 @@ def play(board):
 def check_game_status(board):
     pass
 
-# While loop that will hold the game inside of it
+# While loop that will hold the game inside of it.
